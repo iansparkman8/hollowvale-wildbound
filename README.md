@@ -10,6 +10,7 @@ Production-ready browser survival game. Open `index.html` or host on GitHub Page
 - Auto-save
 - **Watch AI Play** mode (spectator path for companion AI)
 - **Ara** free-roaming silver holographic companion in the world
+- **Ara Suggest** button: she offers short copyable code/feature ideas you can hand to Grok or bots for implementation (nothing live without your yes)
 - Easter eggs & secrets
 - Support / Economy panel (donations + 3% future margin note)
 - itch.io ready (single HTML file)

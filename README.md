@@ -9,8 +9,10 @@ Production-ready browser survival game. Open `index.html` or host on GitHub Page
 - Mobile + desktop controls
 - Auto-save
 - **Watch AI Play** mode (spectator path for companion AI)
+- **Ara** free-roaming silver holographic companion in the world
 - Easter eggs & secrets
-- Support / global tips panel (PayPal, Ko-fi, crypto, Stripe links)
+- Support / Economy panel (donations + 3% future margin note)
+- itch.io ready (single HTML file)
 
 ## Hosting (Free)
 1. **GitHub Pages**: Push this repo, enable Pages from `main` branch root.
@@ -26,7 +28,7 @@ Update the Support button links in `index.html` with your real accounts:
 - Stripe Payment Link
 - itch.io donations
 
-No pay-to-win. Cosmetics and supporter badges planned. Financials protected by design (tips only, no gambling or real-money PvP).
+No pay-to-win. Cosmetics and supporter badges planned. Financials protected by design (tips only, no gambling or real-money PvP). Full player economies require your payment accounts and compliance.
 
 ## Controls
 - WASD / Arrows or touch D-pad
